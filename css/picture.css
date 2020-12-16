@@ -1,0 +1,40 @@
+section div {
+    display: flex;
+}
+
+section div img {
+    align-self: flex-start;
+}
+
+.text {
+    float: left;
+}
+
+.imageLink a {
+    color: #262425;
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    -ms-transition: .2s;
+    transition: .2s;
+    text-decoration: none;
+}
+.imageLink  a:visited {
+    color: #262425;
+}
+.imageLink a:hover {
+    color: #70B77E;
+}
+
+.imageLink {
+    margin-top: 40px;
+}
+
+.imageLink a {
+    display: flex;
+    align-items: center;
+}
+
+.imageLink img {
+    margin-right: 10px;
+}

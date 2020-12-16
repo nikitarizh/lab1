@@ -1,0 +1,25 @@
+hr {
+    border: 0;
+    border: 1px solid #90bce7;
+    border-radius: 3px;
+}
+
+.spacedText {
+    letter-spacing: 6px;
+}
+
+.indent {
+    text-indent: 1em;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.enlargedSpace {
+    word-spacing: 2em;
+}
+
+.imageMarkers {
+    list-style-image: url("../img/arrow-alt-circle-right-regular.svg");
+}

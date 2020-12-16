@@ -1,0 +1,25 @@
+table {
+    width: 90%;
+    padding: 20px 10px;
+
+    margin: 0 auto;
+
+    border: 1px solid #90bce7;
+    border-radius: 3px;
+
+    background-color: #EEC584;
+
+    font-size: 1.3em;
+}
+
+table th {
+    font-size: 1.4em;
+}
+
+table td, th {
+    padding: 5;
+}
+
+table td {
+    text-align: center;
+}

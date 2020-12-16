@@ -1,0 +1,11 @@
+ol {
+    list-style: upper-latin;
+}
+
+ul {
+    list-style-type: square;
+}
+
+ol li, ul li {
+    margin-bottom: 10px;
+}

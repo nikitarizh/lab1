@@ -1,0 +1,36 @@
+main {
+    font-size: 1.2em;
+}
+
+.textInputWrapper {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.textInputWrapper input {
+    width: 150px;
+    font-size: 0.9em;
+    padding: 5px 5px;
+    border: 1px solid #90bce7;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.textInputWrapper input:focus {
+    outline: none;
+}
+
+.radioInputWrapper, .checkBoxInputWrapper {
+    margin-top: 10px;
+}
+
+.headerLabel, .nonHeaderLabel {
+    color: #D16014;
+}
+
+.headerLabel {
+    display: block;
+    margin-top: 20px;
+}

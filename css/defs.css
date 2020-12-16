@@ -1,0 +1,14 @@
+dt {
+    margin: 20px 0 10px 0;
+    font-size: 1.2em;
+}
+
+dd {
+    margin-bottom: 30px;
+}
+
+hr {
+    border: 0;
+    border: 1px solid #90bce7;
+    border-radius: 3px;
+}

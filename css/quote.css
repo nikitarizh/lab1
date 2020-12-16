@@ -1,0 +1,23 @@
+blockquote {
+    background-color: #ebebeb;
+    width: 30%;
+    padding: 20px 10px;
+    border-radius: 3px;
+    font-style: italic;
+}
+
+.quoteAuthor {
+    margin-left: 50px;
+}
+
+.quoteAuthor a {
+    color: #262425;
+    text-decoration: none;
+    font-style: italic;
+}
+.quoteAuthor a:visited {
+    color: #262425;
+}
+.quoteAuthor a:hover, .quoteAuthor a.activeNav {
+    color: #70B77E;
+}

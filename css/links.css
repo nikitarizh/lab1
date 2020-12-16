@@ -1,0 +1,19 @@
+main a {
+    display: block;
+    margin-bottom: 20px;
+    font-size: 1.2em;
+    color: #70B77E;
+
+    -webkit-transition: .2s;
+    -moz-transition: .2s;
+    -o-transition: .2s;
+    -ms-transition: .2s;
+    transition: .2s;
+    text-decoration: none;
+}
+main a:visited {
+    color: #90bce7;
+}
+main a:hover {
+    color: #BA1F33;
+}
